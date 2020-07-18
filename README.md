@@ -5,11 +5,11 @@ I love Open Source and have been contributing for many years now. I wish to cont
 
 #### About me...
 
-I’m Sébastien Dubois, a thirty-something Belgian geek.
+I’m Sébastien Dubois, a thirty-something Belgian author, CTO, geek, parent, gamer.
+
+I write quite a lot [on Medium](https://medium.com/@dsebastien) and I was also crazy enough to write [a book about the wonderful TypeScript programming language](https://www.amazon.com/Learn-TypeScript-Building-Applications-understanding/dp/1789615860/).
 
 I’m an IT guy at heart and am very passionate about: software development/design/architecture, the open web, free and open source software.. but I also have other passions such as photography, board games, piano, and errr… well many other things that I don’t have time for ;-)
-
-I was crazy enough to write [a book about the wonderful TypeScript programming language](https://www.amazon.com/Learn-TypeScript-Building-Applications-understanding/dp/1789615860/).
 
 I'm also the owner of a Belgian IT consultancy firm called [DeveloPassion](https://www.developassion.be/).
 
@@ -19,6 +19,7 @@ You can find me on:
 * [LinkedIn](https://www.linkedin.com/in/sebastiend)
 * [Twitch](https://www.twitch.tv/dsebastien)
 * [Youtube](https://www.youtube.com/channel/UCz0x-VJhvKwV-PK3E_i5G1w)
+* [DEV.to](https://dev.to/dsebastien)
 * [StackOverflow](https://stackoverflow.com/users/226630/dsebastien)
 
 If you wish to contact me directly, you’re probably going to prefer to drop me a mail: seb _at_ dsebastien.net.
