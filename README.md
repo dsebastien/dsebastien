@@ -21,6 +21,7 @@ You can find me on:
 * [Youtube](https://www.youtube.com/channel/UCz0x-VJhvKwV-PK3E_i5G1w)
 * [DEV.to](https://dev.to/dsebastien)
 * [StackOverflow](https://stackoverflow.com/users/226630/dsebastien)
+* [dSebastien.net](https://www.dsebastien.net/)
 
 If you wish to contact me directly, you’re probably going to prefer to drop me a mail: seb _at_ dsebastien.net.
 
