@@ -8,7 +8,7 @@ I was crazy enough to write [a book about the wonderful TypeScript programming l
 
 I'm also the owner of a Belgian IT consultancy firm called [DeveloPassion](https://www.developassion.be/).
 
-I love Open Source and have been contributing for many years now. I wish to continue, but without funding, it's hard to keep going. So if you like what I'm doing and want to support me, then take a look at [my Github sponsors page](https://github.com/sponsors/dsebastien): https://github.com/sponsors/dsebastien
+I love Open Source and have been contributing for many years now. I wish to continue, but without funding, it's hard to keep going. So if you like what I'm doing and want to support me, then take a look at [my Github sponsors page](https://github.com/sponsors/dsebastien).
 
 You can find me on:
 * [Medium](https://medium.com/@dsebastien)
