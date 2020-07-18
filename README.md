@@ -23,6 +23,7 @@ You can find me on:
 * [StackOverflow](https://stackoverflow.com/users/226630/dsebastien)
 * [dSebastien.net](https://www.dsebastien.net/)
 * [Facebook](https://www.facebook.com/trankill)
+* [Gitlab](https://gitlab.com/dsebastien)
 
 If you wish to contact me directly, you’re probably going to prefer to drop me a mail: seb _at_ dsebastien.net.
 
