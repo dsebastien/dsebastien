@@ -11,7 +11,7 @@ I write quite a lot [on Medium](http://dsebastien.medium.com/) and I was also cr
 
 I've also started writing a new book called "Dev Concepts", which will help many understand the big picture and how to become software crafters / full stack developers: https://dev-concepts.dev/
 
-I’m an IT guy at heart and am very passionate about: software development/design/architecture, the open web, free and open source software.. but I also have other passions such as photography, board games, piano, and errr… well many other things that I don’t have time for ;-)
+I’m an IT guy at heart and am very passionate about: software development/design/architecture, the open web, free and open-source software.. but I also have other passions such as photography, board games, piano, and errr… well many other things that I don’t have time for ;-)
 
 I'm also the owner of a Belgian IT consultancy firm called [DeveloPassion](https://www.developassion.be/).
 
