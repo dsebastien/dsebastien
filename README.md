@@ -7,7 +7,7 @@ I love Open Source and have been contributing for many years now. I wish to cont
 
 I’m Sébastien Dubois, a thirty-something Belgian author, CTO, geek, parent, gamer.
 
-I write quite a lot [on Medium](http://dsebastien.medium.com/) and I was also crazy enough to write [a book about the wonderful TypeScript programming language](https://www.amazon.com/Learn-TypeScript-Building-Applications-understanding/dp/1789615860/).
+I write quite a lot on [my blog](https://dsebastien.net), on [Medium](https://dsebastien.medium.com), and I was also crazy enough to write [a book about the wonderful TypeScript programming language](https://www.amazon.com/Learn-TypeScript-Building-Applications-understanding/dp/1789615860/).
 
 I've also started writing a new book called "Dev Concepts", which will help many understand the big picture and how to become software crafters / full stack developers: https://dev-concepts.dev/
 
