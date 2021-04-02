@@ -5,17 +5,18 @@ I love Open Source and have been contributing for many years now. I wish to cont
 
 #### About me...
 
-I’m Sébastien Dubois, a thirty-something Belgian author, CTO, geek, parent, gamer.
+I’m Sébastien Dubois, a thirty-something Belgian author, CTO, geek, dad, gamer.
 
 I write quite a lot on [my blog](https://dsebastien.net), on [Medium](https://dsebastien.medium.com), and I was also crazy enough to write [a book about the wonderful TypeScript programming language](https://www.amazon.com/Learn-TypeScript-Building-Applications-understanding/dp/1789615860/).
 
-I've also started writing a new book called "Dev Concepts", which will help many understand the big picture and how to become software crafters / full stack developers: https://dev-concepts.dev/
+I'm currently writing a series of books called [Dev Concepts](https://dev-concepts.dev), which will cover a gazillion concepts of and around software development. Through this project, my goal is to help as many people as possible to understand the big picture and how to become software crafters / full stack developers: https://dev-concepts.dev/
 
 I’m an IT guy at heart and am very passionate about: software development/design/architecture, the open web, free and open-source software.. but I also have other passions such as photography, board games, piano, and errr… well many other things that I don’t have time for ;-)
 
 I'm also the owner of a Belgian IT consultancy firm called [DeveloPassion](https://www.developassion.be/).
 
 You can find me on:
+* [My blog](https://dsebastien.net)
 * [Medium](http://dsebastien.medium.com/)
 * [Twitter](https://twitter.com/dsebastien)
 * [LinkedIn](https://www.linkedin.com/in/sebastiend)
