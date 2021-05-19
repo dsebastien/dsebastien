@@ -9,7 +9,12 @@ I’m Sébastien Dubois, a thirty-something Belgian author, CTO, geek, dad, game
 
 I write quite a lot on [my blog](https://dsebastien.net), on [Medium](https://dsebastien.medium.com), and I was also crazy enough to write [a book about the wonderful TypeScript programming language](https://www.amazon.com/Learn-TypeScript-Building-Applications-understanding/dp/1789615860/).
 
-I'm currently writing a series of books called [Dev Concepts](https://dev-concepts.dev), which will cover a gazillion concepts of and around software development. Through this project, my goal is to help as many people as possible to understand the big picture and how to become software crafters / full stack developers: https://dev-concepts.dev/
+I'm currently writing a series of books called [Dev Concepts](https://dev-concepts.dev), which will cover a gazillion concepts of and around software development. Through this project, my goal is to help as many people as possible to understand the big picture and how to become software crafters / full stack developers: https://dev-concepts.dev/.
+
+The first two volumes are already available:
+
+* https://gumroad.com/l/DevConcepts-Part-01-SoftwareCraft
+* https://gumroad.com/l/DevConcepts-Tome-02-WhatClientsNeed
 
 I’m an IT guy at heart and am very passionate about: software development/design/architecture, the open web, free and open-source software.. but I also have other passions such as photography, board games, piano, and errr… well many other things that I don’t have time for ;-)
 
