@@ -45,6 +45,12 @@ You can learn more about it here: https://dsebastien.net/blog/2021-08-25-softwar
 
 Here's the invite link if you're in a hurry: https://join.slack.com/t/softwarecrafterstalk/shared_invite/zt-umgx3v06-4rtJ20PXz867GTPzCk1zeQ
 
+#### Personal Knowledge Management community
+
+I have created a new community for knowledge workers / lifelong learners who want to get serious about managing their personal knowledge.
+
+Here's the invite link: https://dsebastien.net/pkm-community
+
 #### PGP
 My PGP key fingerprint is: 9AEC 7595 2F0F 8E52 65A8  4364 6448 ABB4 AEAD 81A2
 
