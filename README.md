@@ -21,15 +21,15 @@ I’m an IT guy at heart and am very passionate about: software development/desi
 I'm also the owner of a Belgian IT consultancy firm called [DeveloPassion](https://www.developassion.be/).
 
 You can find me on:
-* [My blog](https://dsebastien.net)
-* [Medium](http://dsebastien.medium.com/)
 * [Twitter](https://twitter.com/dsebastien)
-* [LinkedIn](https://www.linkedin.com/in/sebastiend)
+* [My blog](https://dsebastien.net)
+* [DEV.to](https://dev.to/dsebastien)
+* [Medium](http://dsebastien.medium.com/)
 * [Polywork](https://updates.dsebastien.net/)
 * [IndieHackers](https://www.indiehackers.com/dSebastien)
+* [LinkedIn](https://www.linkedin.com/in/sebastiend)
 * [Twitch](https://www.twitch.tv/dsebastien)
 * [Youtube](https://www.youtube.com/channel/UCz0x-VJhvKwV-PK3E_i5G1w)
-* [DEV.to](https://dev.to/dsebastien)
 * [HashNode](https://dsebastien.hashnode.dev/)
 * [StackOverflow](https://stackoverflow.com/users/226630/dsebastien)
 * [dSebastien.net](https://www.dsebastien.net/)
@@ -37,6 +37,13 @@ You can find me on:
 * [Gitlab](https://gitlab.com/dsebastien)
 
 If you wish to contact me directly, you’re probably going to prefer to drop me a mail: sebastien _at_ developassion.be.
+
+#### Software Crafters community
+
+I have created an online community for Software Crafters.
+You can learn more about it here: https://dsebastien.net/blog/2021-08-25-software-crafters-community
+
+Here's the invite link if you're in a hurry: https://join.slack.com/t/softwarecrafterstalk/shared_invite/zt-umgx3v06-4rtJ20PXz867GTPzCk1zeQ
 
 #### PGP
 My PGP key fingerprint is: 9AEC 7595 2F0F 8E52 65A8  4364 6448 ABB4 AEAD 81A2
