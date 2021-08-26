@@ -9,7 +9,7 @@ I’m Sébastien Dubois, a thirty-something Belgian author, CTO, geek, dad, game
 
 I write quite a lot on [my blog](https://dsebastien.net), on [Medium](https://dsebastien.medium.com), and I was also crazy enough to write [a book about the wonderful TypeScript programming language](https://www.amazon.com/Learn-TypeScript-Building-Applications-understanding/dp/1789615860/).
 
-I'm currently writing a series of books called [Dev Concepts](https://dev-concepts.dev), which will cover a gazillion concepts of and around software development. Through this project, my goal is to help as many people as possible to understand the big picture and how to become software crafters / full stack developers: https://dev-concepts.dev/.
+I'm currently writing a series of 12 books called [Dev Concepts](https://dev-concepts.dev), which will cover a gazillion concepts of and around software development. Through this project, my goal is to help as many people as possible to understand the big picture and how to become software crafters / full stack developers: https://dev-concepts.dev/.
 
 The first two volumes are already available:
 
@@ -25,15 +25,18 @@ You can find me on:
 * [Medium](http://dsebastien.medium.com/)
 * [Twitter](https://twitter.com/dsebastien)
 * [LinkedIn](https://www.linkedin.com/in/sebastiend)
+* [Polywork](https://updates.dsebastien.net/)
+* [IndieHackers](https://www.indiehackers.com/dSebastien)
 * [Twitch](https://www.twitch.tv/dsebastien)
 * [Youtube](https://www.youtube.com/channel/UCz0x-VJhvKwV-PK3E_i5G1w)
 * [DEV.to](https://dev.to/dsebastien)
+* [HashNode](https://dsebastien.hashnode.dev/)
 * [StackOverflow](https://stackoverflow.com/users/226630/dsebastien)
 * [dSebastien.net](https://www.dsebastien.net/)
 * [Facebook](https://www.facebook.com/trankill)
 * [Gitlab](https://gitlab.com/dsebastien)
 
-If you wish to contact me directly, you’re probably going to prefer to drop me a mail: seb _at_ dsebastien.net.
+If you wish to contact me directly, you’re probably going to prefer to drop me a mail: sebastien _at_ developassion.be.
 
 #### PGP
 My PGP key fingerprint is: 9AEC 7595 2F0F 8E52 65A8  4364 6448 ABB4 AEAD 81A2
