@@ -17,13 +17,6 @@ The third one is coming soon: [Volume 3: Architecture](https://developassion.gum
 
 I'm the owner of a Belgian IT consultancy firm called [DeveloPassion](https://www.developassion.be/).
 
-#### Software Crafters community
-
-I have created an online community for Software Crafters.
-You can learn more about it here: https://dsebastien.net/blog/2021-08-25-software-crafters-community
-
-Here's the invite link if you're in a hurry: https://join.slack.com/t/softwarecrafterstalk/shared_invite/zt-umgx3v06-4rtJ20PXz867GTPzCk1zeQ
-
 #### Personal Knowledge Management
 I'm spending a ton of time and energy on Personal Knowledge Management (PKM). I've created the [Personal Knowledge Management Library](https://developassion.gumroad.com/l/PersonalKnowledgeManagementLibrary), a collection of curated resources about the topic. It's a great starting point for newcomers, but also a super useful reference for PKM enthusiasts and experts.
 
@@ -32,6 +25,16 @@ I am the editor of the [PKM Journal](https://pkmjournal.com/), an online publica
 I have also created two communities centered on PKM. One on [Slack](https://dsebastien.net/pkm-community) and the other on [Reddit](https://www.reddit.com/r/PersonalKnowledgeMgmt/). You can learn more about this [in the following article](https://dsebastien.net/blog/2021-11-12-personal-knowledge-management-community).
 
 Finally note that I also run [a dedicated Twitter account](https://twitter.com/PkmDaily) where I regularly share interesting links about this topic.
+
+#### Focused productivity
+I'm currently working on a zen productivity app called [focusd](https://focusd.app).
+
+#### Software Crafters community
+
+I have created an online community for Software Crafters.
+You can learn more about it here: https://dsebastien.net/blog/2021-08-25-software-crafters-community
+
+Here's the invite link if you're in a hurry: https://join.slack.com/t/softwarecrafterstalk/shared_invite/zt-umgx3v06-4rtJ20PXz867GTPzCk1zeQ
 
 #### Where to find me
 You can find me on:
