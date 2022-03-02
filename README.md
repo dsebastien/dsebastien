@@ -18,7 +18,7 @@ The third one is coming soon: [Volume 3: Architecture](https://developassion.gum
 I'm the owner of a Belgian IT consultancy firm called [DeveloPassion](https://www.developassion.be/).
 
 #### Personal Knowledge Management
-I'm spending a ton of time and energy on Personal Knowledge Management (PKM). I've created the [Personal Knowledge Management Library](https://developassion.gumroad.com/l/PersonalKnowledgeManagementLibrary), a collection of curated resources about the topic. It's a great starting point for newcomers, but also a super useful reference for PKM enthusiasts and experts.
+I'm spending a ton of time and energy on Personal Knowledge Management (PKM). I've created the [Personal Knowledge Management Library](https://developassion.gumroad.com/l/PersonalKnowledgeManagementLibrary), a collection of curated resources about the topic. It's a great starting point for newcomers, but also a super useful reference for PKM enthusiasts and experts. If you never hear of PKM, then check out the following website: https://personal-knowledge-management.com
 
 I am the editor of the [PKM Journal](https://pkmjournal.com/), an online publication dedicated to PKM, note-taking and learning.
 
