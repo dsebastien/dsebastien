@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-#### Looking for sponsors
-I love Open Source and have been contributing for many years now. I wish to continue, but without funding, it's hard to keep going. So if you like what I'm doing and want to support me, then take a look at [my Github sponsors page](https://github.com/sponsors/dsebastien).
-
 #### About me...
 
 I’m Sébastien Dubois, a thirty-something Belgian author, CTO, geek, dad, gamer. I’m an IT guy at heart and am very passionate about: software development/design/architecture, the open web, free and open-source software. But I also have other passions such as photography, board/video games, piano, and errr… well many other things that I don’t have time for ;-)
@@ -54,6 +51,9 @@ You can find me on:
 * [Gitlab](https://gitlab.com/dsebastien)
 
 If you wish to contact me directly, you’re probably going to prefer to drop me a mail: sebastien _at_ developassion.be.
+
+#### Looking for sponsors
+I love Open Source and have been contributing for many years now. I wish to continue, but without funding, it's hard to keep going. So if you like what I'm doing and want to support me, then take a look at [my Github sponsors page](https://github.com/sponsors/dsebastien).
 
 #### PGP
 My PGP key fingerprint is: 9AEC 7595 2F0F 8E52 65A8  4364 6448 ABB4 AEAD 81A2
