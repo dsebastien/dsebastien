@@ -10,7 +10,8 @@ I love writing. I've got a [blog](https://dsebastien.net), publish a [weekly new
 
 I craft products centered around Knowledge Management, such as the [Obsidian Starter Kit](https://obsidianstarterkit.com), the [PKM Library](https://developassion.gumroad.com/l/PersonalKnowledgeManagementLibrary) and Obsidian plugins:
 - [Obsidian Typefully](https://github.com/dsebastien/obsidian-typefully)
-- [obsidian Dataview Serializer](https://github.com/dsebastien/obsidian-dataview-serializer)
+- [Obsidian Dataview Serializer](https://github.com/dsebastien/obsidian-dataview-serializer)
+- [Obsidian Update Time](https://github.com/dsebastien/obsidian-update-time)
 - ...
 
 I also create courses, such as this one for Obsidian: [Obsidian Starter Course](https://developassion.gumroad.com/l/obsidian-starter-course). BTW, I also have a [YouTube](https://youtube.com/@dSebastien) channel.
