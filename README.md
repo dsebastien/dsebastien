@@ -20,10 +20,12 @@ You can learn more about my projects [here](https://www.dsebastien.net/projects/
 
 #### Where to find me
 You can find me on:
-* [X (Twitter)](https://x.com/dsebastien)
 * [My Website](https://www.dsebastien.net)
+* [X (Twitter)](https://x.com/dsebastien)
+* [Bluesky](https://bsky.app/profile/dsebastien.net)
 * [Youtube](https://www.youtube.com/@dSebastien)
 * [LinkedIn](https://www.linkedin.com/in/sebastiend)
+* [Threads.net](https://www.threads.net/sebastienduboisbe)
 * [DEV.to](https://dev.to/dsebastien)
 * [Medium](http://dsebastien.medium.com/)
 * [IndieHackers](https://www.indiehackers.com/dSebastien)
