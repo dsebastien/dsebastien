@@ -4,7 +4,7 @@
 
 I’m Sébastien Dubois. I'm the owner of a company called [DeveloPassion](https://www.developassion.be/).
 
-I'm wear many hats: father, author, entrepreneur, indie hacker/bootstrapper, coach, mentor, software crafter, CTO, solution architect, thinker, geek, gamer, dad, etc. I'm a technology enthusiast. Right now, I focus on Knowledge Management and Tools for Thought. I'm a [Knowledge Management coach](https://developassion.gumroad.com/l/pkm-coaching).
+I'm wear many hats: father, author, entrepreneur, indie hacker/bootstrapper, coach, mentor, software crafter, CTO, solution architect, thinker, geek, gamer, dad, etc. I'm a technology enthusiast. Right now, I focus on Knowledge Management and Tools for Thought (TfT). I'm a [Knowledge Management coach](https://developassion.gumroad.com/l/pkm-coaching).
 
 I love writing. I've got a [blog](https://www.dsebastien.net), publish a [weekly newsletter](https://www.dsebastien.net/tag/newsletter), write [books](https://www.dsebastien.net/books/), publish a [ton of notes](https://notes.dsebastien.net/50+Resources/56+Obsidian+Publish/README), and create [online courses](https://www.dsebastien.net/courses).
 
@@ -13,6 +13,8 @@ I craft products centered around Knowledge Management, such as the [Obsidian Sta
 - [Obsidian Dataview Serializer](https://github.com/dsebastien/obsidian-dataview-serializer)
 - [Obsidian Update Time](https://github.com/dsebastien/obsidian-update-time)
 - ...
+
+Check out my products [here](https://developassion.gumroad.com).
 
 I also create courses, such as this one for Obsidian: [Obsidian Starter Course](https://developassion.gumroad.com/l/obsidian-starter-course). BTW, I also have a [YouTube](https://youtube.com/@dSebastien) channel.
 
