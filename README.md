@@ -11,8 +11,9 @@ I love writing. I've got a [blog](https://www.dsebastien.net), publish a [weekly
 
 I craft products centered around Knowledge Management, such as the [Obsidian Starter Kit](https://obsidianstarterkit.com), the [PKM Library](https://store.dsebastien.net/l/PersonalKnowledgeManagementLibrary) and Obsidian plugins:
 
-- [Obsidian Typefully](https://github.com/dsebastien/obsidian-typefully)
 - [Obsidian Dataview Serializer](https://github.com/dsebastien/obsidian-dataview-serializer)
+- [Obsidian Replicate.com integration](https://github.com/dsebastien/obsidian-replicate)
+- [Obsidian Typefully integration](https://github.com/dsebastien/obsidian-typefully)
 - [Obsidian Update Time](https://github.com/dsebastien/obsidian-update-time)
 - ...
 
