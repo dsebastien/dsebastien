@@ -11,6 +11,7 @@ I love writing. I've got a [blog](https://www.dsebastien.net), publish a [weekly
 
 I craft products centered around Knowledge Management, such as the [Obsidian Starter Kit](https://obsidianstarterkit.com), the [PKM Library](https://store.dsebastien.net/l/PersonalKnowledgeManagementLibrary) and Obsidian plugins:
 
+- [Obsidian Life Tracker](https://github.com/dsebastien/obsidian-life-tracker-base-view)
 - [Obsidian Dataview Serializer](https://github.com/dsebastien/obsidian-dataview-serializer)
 - [Obsidian Replicate.com integration](https://github.com/dsebastien/obsidian-replicate)
 - [Obsidian Typefully integration](https://github.com/dsebastien/obsidian-typefully)
@@ -21,7 +22,7 @@ Check out my products [here](https://store.dsebastien.net).
 
 I also have a [YouTube](https://youtube.com/@dSebastien) channel.
 
-You can learn more about my projects [here](https://www.dsebastien.net/projects/), and check out [what I'm working on now](https://www.dsebastien.net/now/).
+You can learn more about my projects [here](https://www.dsebastien.net/projects/), [what I'm working on now](https://www.dsebastien.net/now/) and the differents [tools](https://tools.dsebastien.net) I've created.
 
 #### Where to find me
 You can find me on:
