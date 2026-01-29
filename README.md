@@ -13,6 +13,7 @@ I craft products centered around Knowledge Management, such as the [Obsidian Sta
 
 - [Obsidian Life Tracker](https://github.com/dsebastien/obsidian-life-tracker-base-view)
 - [Obsidian Dataview Serializer](https://github.com/dsebastien/obsidian-dataview-serializer)
+- [Obsidian Expander](https://github.com/dsebastien/obsidian-expander)
 - [Obsidian Replicate.com integration](https://github.com/dsebastien/obsidian-replicate)
 - [Obsidian Typefully integration](https://github.com/dsebastien/obsidian-typefully)
 - [Obsidian Update Time](https://github.com/dsebastien/obsidian-update-time)
