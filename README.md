@@ -5,18 +5,21 @@
 I’m Sébastien Dubois. I'm the owner of a company called [DeveloPassion](https://www.developassion.be/).
 
 
-I'm wear many hats: father, author, entrepreneur, indie hacker/bootstrapper, coach, mentor, software crafter, CTO, solution architect, thinker, geek, gamer, dad, etc. I'm a technology enthusiast. Right now, I focus on Knowledge Management and Tools for Thought (TfT). I'm a [Knowledge Management coach](https://developassion.gumroad.com/l/pkm-coaching).
+I'm wear many hats: father, author, entrepreneur, indie hacker/bootstrapper, coach, mentor, software crafter, CTO, solution architect, thinker, geek, gamer, dad, etc. I'm a technology enthusiast. Right now, I focus on Knowledge Management and Tools for Thought (TfT). I'm a [Knowledge Management coach](https://store.dsebastien.net/product/pkm-coaching).
 
-I love writing. I've got a [blog](https://www.dsebastien.net), publish a [weekly newsletter](https://www.dsebastien.net/newsletter), write [books](https://www.dsebastien.net/books/), publish a [ton of notes](https://notes.dsebastien.net/50+Resources/56+Obsidian+Publish/README), and create [courses](https://www.dsebastien.net/courses).
+I love writing. I've got a [blog](https://www.dsebastien.net), publish a [weekly newsletter](https://www.dsebastien.net/newsletter), write [books](https://www.dsebastien.net/books/), publish a [ton of notes](https://notes.dsebastien.net/50+Resources/56+Obsidian+Publish/README), create [courses](https://www.dsebastien.net/courses) and lovely [digital products](https://store.dsebastien.net)
 
 I craft products centered around Knowledge Management, such as the [Obsidian Starter Kit](https://obsidianstarterkit.com), the [PKM Library](https://store.dsebastien.net/l/PersonalKnowledgeManagementLibrary) and Obsidian plugins:
 
 - [Obsidian Life Tracker](https://github.com/dsebastien/obsidian-life-tracker-base-view)
+- [Obsidian Journal Bases](https://github.com/dsebastien/obsidian-journal-base)
 - [Obsidian Dataview Serializer](https://github.com/dsebastien/obsidian-dataview-serializer)
 - [Obsidian Expander](https://github.com/dsebastien/obsidian-expander)
 - [Obsidian Replicate.com integration](https://github.com/dsebastien/obsidian-replicate)
 - [Obsidian Typefully integration](https://github.com/dsebastien/obsidian-typefully)
 - [Obsidian Update Time](https://github.com/dsebastien/obsidian-update-time)
+- [Note Village](https://github.com/dsebastien/obsidian-note-village)
+- [Plugin template](https://github.com/dsebastien/obsidian-plugin-template)
 - ...
 
 Check out my products [here](https://store.dsebastien.net).
