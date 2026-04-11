@@ -5,7 +5,7 @@
 I’m Sébastien Dubois. I'm the owner of a company called [DeveloPassion](https://www.developassion.be/).
 
 
-I'm wear many hats: father, author, entrepreneur, indie hacker/bootstrapper, coach, mentor, software crafter, CTO, solution architect, thinker, geek, gamer, dad, etc. I'm a technology enthusiast. Right now, I focus on Knowledge Management and Tools for Thought (TfT). I'm a [Knowledge Management coach](https://store.dsebastien.net/product/pkm-coaching).
+I'm wear many hats: father, author, entrepreneur, indie hacker/bootstrapper, coach, mentor, software crafter, CTO, solution architect, DevSecOps engineer, AI expert, thinker, geek, gamer, dad, etc. I'm a technology enthusiast. Right now, I focus on Knowledge Management and Tools for Thought (TfT). I'm a [Knowledge Management coach](https://store.dsebastien.net/product/pkm-coaching).
 
 I love writing. I've got a [blog](https://www.dsebastien.net), publish a [weekly newsletter](https://www.dsebastien.net/newsletter), write [books](https://www.dsebastien.net/books/), publish a [ton of notes](https://notes.dsebastien.net/50+Resources/56+Obsidian+Publish/README), create [courses](https://www.dsebastien.net/courses) and lovely [digital products](https://store.dsebastien.net)
 
@@ -15,6 +15,7 @@ I craft products centered around Knowledge Management, such as the [Obsidian Sta
 - [Obsidian Journal Bases](https://github.com/dsebastien/obsidian-journal-base)
 - [Obsidian Dataview Serializer](https://github.com/dsebastien/obsidian-dataview-serializer)
 - [Obsidian Time Machine](https://github.com/dsebastien/obsidian-time-machine)
+- [Obsidian Graph Explorer Base View](https://github.com/dsebastien/obsidian-graph-explorer-base-view)
 - [Obsidian CLI REST MCP](https://github.com/dsebastien/obsidian-cli-rest)
 - [Obsidian Expander](https://github.com/dsebastien/obsidian-expander)
 - [Obsidian Bookshelf](https://github.com/dsebastien/obsidian-bookshelf)
