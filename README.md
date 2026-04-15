@@ -17,6 +17,7 @@ I craft products centered around Knowledge Management, such as the [Obsidian Sta
 - [Obsidian Time Machine](https://github.com/dsebastien/obsidian-time-machine)
 - [Obsidian Graph Explorer Base View](https://github.com/dsebastien/obsidian-graph-explorer-base-view)
 - [Obsidian CLI REST MCP](https://github.com/dsebastien/obsidian-cli-rest)
+- [Obsidian Hidden Folders Access](https://github.com/dsebastien/obsidian-hidden-folders-access)
 - [Obsidian Expander](https://github.com/dsebastien/obsidian-expander)
 - [Obsidian Bookshelf](https://github.com/dsebastien/obsidian-bookshelf)
 - [Obsidian Replicate.com integration](https://github.com/dsebastien/obsidian-replicate)
