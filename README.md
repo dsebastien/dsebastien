@@ -24,7 +24,7 @@ I craft products centered around Knowledge Management, such as the [Obsidian Sta
 - [Obsidian Typefully integration](https://github.com/dsebastien/obsidian-typefully)
 - [Obsidian Remarkable Sync](https://github.com/dsebastien/obsidian-remarkable-sync)
 - [Obsidian Transcriber](https://github.com/dsebastien/obsidian-transcriber)
-- [Obsidian Book Exporter)(https://github.com/dsebastien/obsidian-book-exporter)
+- [Obsidian Book Exporter](https://github.com/dsebastien/obsidian-book-exporter)
 - [Obsidian Update Time](https://github.com/dsebastien/obsidian-update-time)
 - [Note Village](https://github.com/dsebastien/obsidian-note-village)
 - [Plugin template](https://github.com/dsebastien/obsidian-plugin-template)
