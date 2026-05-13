@@ -9,8 +9,11 @@ I'm wear many hats: father, author, entrepreneur, indie hacker/bootstrapper, coa
 
 I love writing. I've got a [blog](https://www.dsebastien.net), publish a [weekly newsletter](https://www.dsebastien.net/newsletter), write [books](https://www.dsebastien.net/books/), publish a [ton of notes](https://notes.dsebastien.net/50+Resources/56+Obsidian+Publish/README), create [courses](https://www.dsebastien.net/courses) and lovely [digital products](https://store.dsebastien.net)
 
-I craft products centered around Knowledge Management, such as the [Obsidian Starter Kit](https://obsidianstarterkit.com), the [PKM Library](https://store.dsebastien.net/l/PersonalKnowledgeManagementLibrary) and Obsidian plugins:
+I craft products centered around Knowledge Management, such as the [Obsidian Starter Kit](https://obsidianstarterkit.com), the [PKM Library](https://store.dsebastien.net/l/PersonalKnowledgeManagementLibrary) and various Obsidian plugins.
 
+Check out [my profile on the Obsidian Community website](https://community.obsidian.md/users/dsebastien).
+
+Some of my plugins:
 - [Obsidian Life Tracker](https://github.com/dsebastien/obsidian-life-tracker-base-view)
 - [Obsidian Journal Bases](https://github.com/dsebastien/obsidian-journal-base)
 - [Obsidian Dataview Serializer](https://github.com/dsebastien/obsidian-dataview-serializer)
