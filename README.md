@@ -22,6 +22,7 @@ Some of my plugins:
 - [Obsidian CLI REST MCP](https://github.com/dsebastien/obsidian-cli-rest)
 - [Obsidian Hidden Folders Access](https://github.com/dsebastien/obsidian-hidden-folders-access)
 - [Obsidian Ghost Publish](https://github.com/dsebastien/obsidian-ghost-publish)
+- [Obsidian Kanban Action Planner](https://github.com/dsebastien/obsidian-kanban-action-planner)
 - [Obsidian Expander](https://github.com/dsebastien/obsidian-expander)
 - [Obsidian Bookshelf](https://github.com/dsebastien/obsidian-bookshelf)
 - [Obsidian Replicate.com integration](https://github.com/dsebastien/obsidian-replicate)
