@@ -17,6 +17,7 @@ Some of my plugins:
 - [Obsidian Life Tracker](https://github.com/dsebastien/obsidian-life-tracker-base-view)
 - [Obsidian Journal Bases](https://github.com/dsebastien/obsidian-journal-base)
 - [Obsidian Dataview Serializer](https://github.com/dsebastien/obsidian-dataview-serializer)
+- [Obsidian AI Editor](https://github.com/dsebastien/obsidian-ai-editor)
 - [Obsidian Time Machine](https://github.com/dsebastien/obsidian-time-machine)
 - [Obsidian Graph Explorer Base View](https://github.com/dsebastien/obsidian-graph-explorer-base-view)
 - [Obsidian CLI REST MCP](https://github.com/dsebastien/obsidian-cli-rest)
