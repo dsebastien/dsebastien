@@ -32,7 +32,7 @@ Some of my plugins:
 - [Obsidian Transcriber](https://github.com/dsebastien/obsidian-transcriber)
 - [Obsidian Book Exporter](https://github.com/dsebastien/obsidian-book-exporter)
 - [Obsidian Update Time](https://github.com/dsebastien/obsidian-update-time)
-- [Obsidian Agentic Resource Discover Server](https://github.com/dsebastien/obsidian-agentic-resource-discovery-server)
+- [Obsidian Agentic Resource Discovery Server](https://github.com/dsebastien/obsidian-agentic-resource-discovery-server)
 - [Note Village](https://github.com/dsebastien/obsidian-note-village)
 - [Plugin template](https://github.com/dsebastien/obsidian-plugin-template)
 - ...
