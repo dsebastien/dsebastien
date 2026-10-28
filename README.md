@@ -34,7 +34,7 @@ Some of my plugins:
 - [Obsidian Update Time](https://github.com/dsebastien/obsidian-update-time)
 - [Obsidian Agentic Resource Discovery Server](https://github.com/dsebastien/obsidian-agentic-resource-discovery-server)
 - [Note Village](https://github.com/dsebastien/obsidian-note-village)
-- [Obsidian Music Practice](https://github.com/dsebastien/obsidian-music-practice) (in development)
+- [Obsidian Music Practice](https://github.com/dsebastien/obsidian-music-practice)
 - [Plugin template](https://github.com/dsebastien/obsidian-plugin-template)
 - ...
 
